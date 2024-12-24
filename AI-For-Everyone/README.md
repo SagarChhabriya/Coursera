@@ -17,3 +17,36 @@
 ![image](https://github.com/user-attachments/assets/9eb8285c-5c3c-4e19-92dc-038e7952d202)
 
 Supervised learning can work for both structured and unstructured data.
+
+![image](https://github.com/user-attachments/assets/d40e15ef-c8e0-48ba-8543-8ca84816c3a7)
+
+# Machine Learning vs Data Science
+
+## Machine Learning (ML)
+- It's about teaching computers to learn from data, without being programmed explicitly.
+- **Example:** A mobile app that predicts the price of a house based on its size, number of bedrooms, etc.
+- The system takes input (house details) and gives an output (predicted price) automatically.
+- The system runs 24/7 and helps many users at any time.
+- In machine learning, you focus on creating software that takes input and produces an output.
+
+## Data Science
+- It's about analyzing data to find patterns and insights that help make decisions.
+- **Example:** A team looks at housing data and discovers:
+  - Houses with more bedrooms cost more, even with the same size.
+  - Renovated homes sell for 15% more.
+- These insights help businesses make decisions, like whether to build a 2-bedroom or 3-bedroom house for maximum profit, or if renovating a house is worth the investment.
+- In data science, you focus on understanding data and drawing conclusions to guide business decisions.
+
+## Differences
+- **Machine Learning** leads to a working software system that automatically outputs results based on input.
+- **Data Science** focuses on finding patterns and providing insights, which help businesses make smarter decisions.
+- The line between the two is not always clear, and terms may be used differently depending on the industry.
+
+## Definitions
+- **Machine Learning:** The ability for computers to learn from data without being programmed (Arthur Samuel).
+- **Data Science:** The science of getting knowledge and insights from data.
+
+![image](https://github.com/user-attachments/assets/52e706a2-142c-48a2-8248-2555f7a92378)
+
+![image](https://github.com/user-attachments/assets/6c058575-c4b0-4d57-a7a1-08eaa2aea1d9)
+
